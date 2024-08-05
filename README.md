@@ -1,5 +1,10 @@
 # Substrate Node Template
 
+
+> [!WARNING]
+> ### DEPRECATED
+> This template is deprecated and should no longer be used. For a new version of this, please use [`polkadot-sdk-solochain-template`](https://github.com/paritytech/polkadot-sdk-solochain-template) if you want a production-ready template, or [`polkadot-sdk-minimal-template`](https://github.com/paritytech/polkadot-sdk-minimal-template) for testing and learning. For a further list of templates, please see [`polkadot_sdk_docs::templates`](https://paritytech.github.io/polkadot-sdk/master/polkadot_sdk_docs/polkadot_sdk/templates/index.html).
+
 A fresh [Substrate](https://substrate.io/) node, ready for hacking :rocket:
 
 A standalone version of this template is available for each release of Polkadot
